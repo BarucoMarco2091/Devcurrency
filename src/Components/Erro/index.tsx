@@ -1,4 +1,3 @@
-import styles from './notfound.module.css'
 
 export function NotFound() {
     return(
